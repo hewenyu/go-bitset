@@ -10,12 +10,12 @@ Bitsets are expanded automatically to the size of the largest bit set.
 
 == Installation
 
-go get github.com/pmylund/go-bitset
+go get github.com/hewenyu/go-bitset
 
 == Documentation
 
 go doc github.com/pmylund/go-bitset
-or http://go.pkgdoc.org/github.com/pmylund/go-bitset
+or http://go.pkgdoc.org/github.com/hewenyu/go-bitset
 
 == Usage
 
